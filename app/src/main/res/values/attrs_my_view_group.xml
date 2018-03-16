@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="LomgFlowLayout">
+        <attr name="verticalSpacing" format="dimension" />
+        <attr name="horizontalSpacing" format="dimension" />
+    </declare-styleable>
+</resources>
